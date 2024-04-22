@@ -52,8 +52,11 @@ To get started with the project, follow these steps:
 The application should now be running on http://localhost:3000
 
 Features:
+
 -> Browse products: View a list of available products with details such as name, price, and description.
+
 -> Add to cart: Easily add products to your shopping cart with a single click.
+
 -> Cart management: View, update, and remove items from your shopping cart before checkout.
 
 Technologies Used
