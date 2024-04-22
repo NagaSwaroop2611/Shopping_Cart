@@ -58,6 +58,7 @@ Features:
 
 Technologies Used
 -> Frontend: HTML, CSS, JavaScript (React.js)
+
 -> Source for products:https://fakestoreapi.com/products
 
 
