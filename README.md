@@ -43,7 +43,7 @@ Welcome to our shopping cart project! This project is a simple e-commerce applic
 
 To get started with the project, follow these steps:
 1.Clone the repository:
-	git clone https://github.com/your-username/shopping-cart.git
+	git clone https://github.com/NagaSwaroop2611/shopping-cart.git
 2.Install dependencies:
 	cd shopping-cart
 	npm install
