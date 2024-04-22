@@ -59,7 +59,8 @@ Features:
 
 -> Cart management: View, update, and remove items from your shopping cart before checkout.
 
-Technologies Used
+Technologies Used:
+
 -> Frontend: HTML, CSS, JavaScript (React.js)
 
 -> Source for products:https://fakestoreapi.com/products
